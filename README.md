@@ -1,6 +1,6 @@
 # Alert Summarization for Online Service Systems by Validating Propagation Paths of Anomalies
 
-![](https://github.com/cxl-for-anonymous/ProAlert/blob/main/figure/overview_6.pdf)
+![Overview](https://github.com/cxl-for-anonymous/ProAlert/blob/main/figure/overview.png)
 
 For an online service system, alerts are critical data for monitor-
 ing the system as they record anomalies within the system. In a
